@@ -1,4 +1,4 @@
-URL - https://qr-gen-ygz6.onrender.com
+URL - https://qr-gen-ochre.vercel.app/
 
 
 
